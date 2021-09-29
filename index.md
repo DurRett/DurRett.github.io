@@ -85,7 +85,7 @@
 
 # [컨셉 & 대표이미지 기반 작품묘사]
 
-PTT파일 링크 <br>
+PPT파일 링크 <br>
 https://docs.google.com/presentation/d/1X3M8j7UW1CF47n49GKHHoncGzzOpZUkN/edit?usp=sharing&ouid=106384652671129907928&rtpof=true&sd=true
 
 <br><br>
