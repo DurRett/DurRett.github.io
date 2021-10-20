@@ -472,4 +472,4 @@ PC용 싱글플레이 게임으로 Unity를 사용해 개발 예정. <br>
 
  <br><br><br>
 # 3. 용어정리
- <img src="./img/yj.png"><br>
+ <img src="./img/yj2.png"><br>
