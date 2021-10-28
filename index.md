@@ -629,3 +629,7 @@ PC용 싱글플레이 게임으로 Unity를 사용해 개발 예정. <br>
 
 캐릭터 : 기본적인 이동 메커니즘에 알맞는 스프라이트 설정.
 캐릭터의 모션에 걸맞는 스프라이트를 제작한다.
+
+PPT링크:
+<br>
+https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?usp=sharing&ouid=106384652671129907928&rtpof=true&sd=true
