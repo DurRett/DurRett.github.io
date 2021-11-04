@@ -666,3 +666,12 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 PPT링크:
 <br>
 https://docs.google.com/presentation/d/1XeKHxnP2YB6GFO1smDLaPI78-8NjRNdN/edit?usp=sharing&ouid=106384652671129907928&rtpof=true&sd=true
+
+<br><br>
+
+작업현황:
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="./mp4/test_stage.mp4" type="video/mp4">
+  </video>
+</figure>
