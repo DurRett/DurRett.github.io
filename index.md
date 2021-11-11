@@ -25,7 +25,10 @@
 
 ### 8. [개발작업 일정(6주)](#8)
 
-### 9. [1주차 작업결과](#9)
+### 9. [주차별 작업결과](#9)
+- 1주차 작업결과(#91)
+- 2주차 작업결과(#92)
+- 3주차 작업결과(#93)
 
 
 
@@ -603,7 +606,7 @@ PC용 싱글플레이 게임으로 Unity를 사용해 개발 예정. <br>
 
 <br><br><br>
 
- # 1주차 작업결과 <a name='9'> </a>
+ # 1주차 작업결과 <a name='91'> </a>
  
 작업명: 기본 게임 인트로, 캐릭터 프로토타입 제작 1단계
 
@@ -637,7 +640,7 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 
 <br><br><br>
 
- # 2주차 작업결과 <a name='10'> </a>
+ # 2주차 작업결과 <a name='92'> </a>
 
 작업명: 스테이지 구성, 레벨디자인
 
@@ -676,7 +679,9 @@ https://docs.google.com/presentation/d/1XeKHxnP2YB6GFO1smDLaPI78-8NjRNdN/edit?us
   </video>
 </figure>
 
- # 3주차 작업결과 <a name='10'> </a>
+<br><br><br>
+
+ # 3주차 작업결과 <a name='93'> </a>
 
 작업명: 스테이지 구성, 레벨디자인
 
