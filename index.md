@@ -675,3 +675,50 @@ https://docs.google.com/presentation/d/1XeKHxnP2YB6GFO1smDLaPI78-8NjRNdN/edit?us
     <source src="./mp4/test_stage.mp4" type="video/mp4">
   </video>
 </figure>
+
+ # 3주차 작업결과 <a name='10'> </a>
+
+작업명: 스테이지 구성, 레벨디자인
+
+<프로그래밍> (100%)
+
+플레이어: 플레이어 컨트롤 심화 <br>
+
+1. Shift키는 대쉬기능으로 설정한다.  
+2. Die()함수가 호출 될 시 저장된 위치에서 부활한다.
+
+몬스터 
+1. 일반 몬스터 구현.
+
+AI: 몬스터 기초AI 도입
+1. 일반 몬스터에게 이동가능area를 설정하여 설정한 area 영역만 왔다갔다 하게 만든다.      
+
+세이브/로드 구현
+1. 새로하기를 클릭 시 게임의 맨 처음부터 시작한다.  
+
+
+
+애니메이션: 기초 플레이어동작 모션 (50%)
+1. 플레이어가 걷을 때, 대쉬때, 점프, 숙이기 등의 모션을 취할때 애니메이션을 추가한다.  (100%)         
+2. 몬스터도 플레이어와 동일 시 하게 애니메이션을 적용한다.    (0%)      
+     
+<br>
+<사운드> <br> (100%)
+사운드설정: 기본 BGM, SE 적용 <br>
+
+1. 플레이어가 점프할때 SE를 적용한다.  
+2. 플레이어가 피격시, 사망시 SE를 적용한다.    
+3. 게임 인트로 BGM을 적용한다.
+
+PPT링크:
+<br>
+https://docs.google.com/presentation/d/19gH2f80sjyj2JHj7kbdRyll1yROdGkSO/edit?usp=sharing&ouid=106384652671129907928&rtpof=true&sd=true
+
+<br><br>
+
+작업현황:
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="./mp4/test_stage.mp4" type="video/mp4">
+  </video>
+</figure>
