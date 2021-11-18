@@ -29,6 +29,7 @@
 - [1주차 작업결과](#91)
 - [2주차 작업결과](#92)
 - [3주차 작업결과](#93)
+- [4주차 작업결과](#94)
 
 
 
@@ -466,7 +467,7 @@ PC용 싱글플레이 게임으로 Unity를 사용해 개발 예정. <br>
 [스테이지구성]
 
 1. ~~2D 횡스크롤 시점 카메라를 사용한다.~~ 
-1. ~~지형은 기본적으로 고정된 발판(Ground)~~과 움직이는 무빙 플랫폼(Moving_Platform)으로 이루어져있다.						
+1. ~~지형은 기본적으로 고정된 발판(Ground)~~  과 움직이는 무빙 플랫폼(Moving_Platform)으로 이루어져있다.						
 1. 플레이어 객체와 충돌 시 투명해지는 히든 지형이 있다.(Hidden_Ground)						
 1. ~~세이브포인트 오브젝트와 닿을 시 리스폰 위치를 현재 위치로 갱신한다.~~						
 1. ~~플레이어가 장애물에 닿으면 리스폰 위치로 돌아간다.~~						
@@ -718,6 +719,58 @@ AI: 몬스터 기초AI 도입 (100%)
 PPT링크:
 <br>
 https://docs.google.com/presentation/d/19gH2f80sjyj2JHj7kbdRyll1yROdGkSO/edit?usp=sharing&ouid=106384652671129907928&rtpof=true&sd=true
+
+<br><br>
+
+작업현황:
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="./mp4/test_stage.mp4" type="video/mp4">
+  </video>
+</figure>
+
+<br><br><br>
+
+ # 4주차 작업결과 <a name='94'> </a>
+
+작업명: 플레이어 공격기능, 체크포인트, 스토리 구현
+
+<프로그래밍>
+
+플레이어: 공격기능 (50%)
+
+1. 근접공격은 z키로 연속하여 누르면 콤보 공격을하는 combat을 가지고 있다. (100%)
+1. 원거리공격은 x키로 attack_delay를 주어 무한정 난사하는 것을 방지한다.    (0%)
+
+몬스터 (0%)
+1. 몬스터는 각각 HP가 존재한다. 이는 상위 개체로 갈 수록 높아진다.
+
+
+체크포인트 구현 (100%)
+1. 세이브포인트 오브젝트와 닿을 시 리스폰 위치를 현재 위치로 갱신한다.
+
+
+애니메이션: 플레이어 공격모션 (0%)
+1. 공격 모션의 경우 모션에 따른 충돌 범위를 설정해준다.        
+
+
+
+스토리 (60%)
+1. 게임 시작 인트로에 스토리 컷씬을 보여준다.  
+
+
+<그래픽> (100%)
+1. 캐릭터 공격모션 스프라이트 제작
+
+
+<사운드> (70%)
+사운드설정: 기본 BGM, SE 적용
+
+1. 스테이지, 스토리진행 컷씬등 각각의 상황에 맞는 BGM을 사용한다.    
+
+PPT링크:
+<br>
+https://docs.google.com/presentation/d/145_rBI21AzYrAFtfbbkGu6QyaZYPO8RL/edit?usp=sharing&ouid=106384652671129907928&rtpof=true&sd=true
 
 <br><br>
 
