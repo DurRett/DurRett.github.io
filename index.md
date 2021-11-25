@@ -660,7 +660,7 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 - 초기 스테이지 제작.
 
 <br>
-<그래픽>
+*그래픽
 
 <br>
 [스테이지구성]
