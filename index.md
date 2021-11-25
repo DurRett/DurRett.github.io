@@ -645,9 +645,10 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 # 2주차 작업결과 <a name='92'> </a>
 
 작업명: 스테이지 구성, 레벨디자인 <br> 
- <br>
+
 <프로그래밍> <br>
- <br>
+
+<br>
 
 [스테이지구성]
 
