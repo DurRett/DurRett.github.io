@@ -840,6 +840,6 @@ https://docs.google.com/presentation/d/1AcWjkMHaYc94kOsYawpQu5rVLPkdYdXJ/edit?us
 작업현황:
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./mp4/test_stage.mp4" type="video/mp4">
+    <source src="./video/test_stage.mp4" type="video/mp4">
   </video>
 </figure>
