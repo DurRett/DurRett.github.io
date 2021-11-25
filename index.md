@@ -608,7 +608,7 @@ PC용 싱글플레이 게임으로 Unity를 사용해 개발 예정. <br>
 
 <br><br><br>
 
- # 1주차 작업결과 <a name='91'> </a>
+# 1주차 작업결과 <a name='91'> </a>
  
 작업명: 기본 게임 인트로, 캐릭터 프로토타입 제작 1단계 <br>
 
@@ -642,7 +642,7 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 
 <br><br><br>
 
- # 2주차 작업결과 <a name='92'> </a>
+# 2주차 작업결과 <a name='92'> </a>
 
 작업명: 스테이지 구성, 레벨디자인 <br> 
  <br>
@@ -686,7 +686,7 @@ https://docs.google.com/presentation/d/1XeKHxnP2YB6GFO1smDLaPI78-8NjRNdN/edit?us
 
 <br><br><br>
 
- # 3주차 작업결과 <a name='93'> </a>
+# 3주차 작업결과 <a name='93'> </a>
 
 작업명: 스테이지 구성, 레벨디자인  <br>
 
@@ -736,7 +736,7 @@ https://docs.google.com/presentation/d/19gH2f80sjyj2JHj7kbdRyll1yROdGkSO/edit?us
 
 <br><br><br>
 
- # 4주차 작업결과 <a name='94'> </a>
+# 4주차 작업결과 <a name='94'> </a>
 
 작업명: 플레이어 공격기능, 체크포인트, 스토리 구현  <br>
 
@@ -788,7 +788,7 @@ https://docs.google.com/presentation/d/145_rBI21AzYrAFtfbbkGu6QyaZYPO8RL/edit?us
 
 <br><br><br>
 
- # 5주차 작업결과 <a name='95'> </a>
+# 5주차 작업결과 <a name='95'> </a>
 
 작업명: 플레이어 공격기능, 체크포인트, 스토리 구현 <br>
 
