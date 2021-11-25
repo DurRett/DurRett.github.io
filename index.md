@@ -662,11 +662,13 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 
 <그래픽>  <br>
 
-[스테이지 구성]
+[스테이지구성]
+
 1. 스테이지에 맞는 지형 스프라이트를 제작한다. (100%)
 
 
 [오브젝트]
+
 1. 코인, 세이브포인트, 함정, 몬스터 등 각각의 오브젝트 스프라이트를 제작한다. (100%)
 
 PPT링크:  <br>
