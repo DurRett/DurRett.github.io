@@ -646,9 +646,7 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 
 작업명: 스테이지 구성, 레벨디자인 
 
-<br>
 *프로그래밍
-
 <br>
 [스테이지구성]
 
@@ -661,7 +659,6 @@ https://docs.google.com/presentation/d/1h4OFVBN7wVB-yIhwrg3L3GnoDFZ7LTMh/edit?us
 
 <br>
 *그래픽
-
 <br>
 [스테이지구성]
 
@@ -689,12 +686,10 @@ https://docs.google.com/presentation/d/1XeKHxnP2YB6GFO1smDLaPI78-8NjRNdN/edit?us
 
 # 3주차 작업결과 <a name='93'> </a>
 
-<br>
 작업명: 스테이지 구성, 레벨디자인
 
 <br>
 *프로그래밍  
-
 <br>
 [플레이어]
 
@@ -750,12 +745,10 @@ https://docs.google.com/presentation/d/19gH2f80sjyj2JHj7kbdRyll1yROdGkSO/edit?us
 
 # 4주차 작업결과 <a name='94'> </a>
 
-<br>
 작업명: 플레이어 공격기능, 체크포인트, 스토리 구현
 
 <br>
 *프로그래밍
-
 <br>
 [플레이어] : 공격기능 (50%)
 
@@ -818,7 +811,6 @@ https://docs.google.com/presentation/d/145_rBI21AzYrAFtfbbkGu6QyaZYPO8RL/edit?us
 
 <br>
 *프로그래밍
-
 <br>
 [플레이어] (0%)
 
@@ -867,7 +859,6 @@ https://docs.google.com/presentation/d/145_rBI21AzYrAFtfbbkGu6QyaZYPO8RL/edit?us
 
 
 *사운드
-
 <br>
 [사운드설정]: 기본 BGM, SE 적용
 
