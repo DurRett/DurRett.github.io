@@ -125,7 +125,7 @@ https://docs.google.com/presentation/d/1X3M8j7UW1CF47n49GKHHoncGzzOpZUkN/edit?us
 
 <br><br>
 
-# [농그랑땡의 모험 구성 요소] <a name='5'> </a>
+# [Sakuya's Adventure 구성 요소] <a name='5'> </a>
 
 
 <br>
