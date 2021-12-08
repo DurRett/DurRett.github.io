@@ -678,7 +678,7 @@ https://docs.google.com/presentation/d/1XeKHxnP2YB6GFO1smDLaPI78-8NjRNdN/edit?us
 작업현황:
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./mp4/test_stage.mp4" type="video/mp4">
+    <source src="./video/test_stage.mp4" type="video/mp4">
   </video>
 </figure>
 
@@ -737,7 +737,7 @@ https://docs.google.com/presentation/d/19gH2f80sjyj2JHj7kbdRyll1yROdGkSO/edit?us
 작업현황:  <br>
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./mp4/sakuad_3.mp4" type="video/mp4">
+    <source src="./video/sakuad_3.mp4" type="video/mp4">
   </video>
 </figure>
 
