@@ -797,11 +797,9 @@ https://docs.google.com/presentation/d/145_rBI21AzYrAFtfbbkGu6QyaZYPO8RL/edit?us
 <br><br>
 
 작업현황:
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./mp4/sakuad_4.mp4" type="video/mp4">
-  </video>
-</figure>
+https://drive.google.com/file/d/10enL_a363K5vWC97q6gJU-aSZWpJgDuB/view?usp=sharing
+
+<br>(용량문제로 구글드라이브로 업로드합니다.)
 
 <br><br><br>
 
@@ -922,8 +920,6 @@ https://docs.google.com/presentation/d/1dr5MvMNGGWlK2agOStiJqYD6nAOitqpC/edit?us
 <br><br>
 
 작업현황:
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./video/sakuad_6.mp4" type="video/mp4">
-  </video>
-</figure>
+https://drive.google.com/file/d/1y8xJna8gu0A9d8g7Nt-HtEek4ULsUF_z/view?usp=sharing
+<br>
+(용량문제로 구글드라이브로 업로드합니다.)
