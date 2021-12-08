@@ -1,5 +1,5 @@
 
-# 프로젝트 - 농그랑땡의 모험
+# 프로젝트 - Sakuya's Adventure
 <br>
 
 # [ 목차 ]
@@ -31,7 +31,7 @@
 - [3주차 작업결과](#93)
 - [4주차 작업결과](#94)
 - [5주차 작업결과](#95)
-
+- [6주차 작업결과](#96)
 
 
 <br><br><br>
@@ -469,7 +469,7 @@ PC용 싱글플레이 게임으로 Unity를 사용해 개발 예정. <br>
 
 1. ~~2D 횡스크롤 시점 카메라를 사용한다.~~ 
 1. ~~지형은 기본적으로 고정된 발판(Ground)~~  과 움직이는 무빙 플랫폼(Moving_Platform)으로 이루어져있다.						
-1. 플레이어 객체와 충돌 시 투명해지는 히든 지형이 있다.(Hidden_Ground)						
+1. ~~플레이어 객체와 충돌 시 투명해지는 히든 지형이 있다.(Hidden_Ground)~~						
 1. ~~세이브포인트 오브젝트와 닿을 시 리스폰 위치를 현재 위치로 갱신한다.~~						
 1. ~~플레이어가 장애물에 닿으면 리스폰 위치로 돌아간다.~~						
 1. ~~위치가 고정되어있는 함정~~과 특정 트리거를 작동시 발동하는 함정을 만든다.						
@@ -519,7 +519,7 @@ PC용 싱글플레이 게임으로 Unity를 사용해 개발 예정. <br>
 1. ~~플레이어가 걷을 때, 대쉬때, 점프, 숙이기 등의 모션을 취할때 애니메이션을 추가한다.~~					
 1. ~~공격 모션의 경우 모션에 따른 충돌 범위를 설정해준다.~~					
 1. ~~몬스터도 플레이어와 동일 시 하게 애니메이션을 적용한다.~~					
-1. 함정은 일정 시간마다 애니메이션이 반복되게끔 설정하고, 모션에 따른 충돌 범위를 설정해준다.					
+1. ~~함정은 일정 시간마다 애니메이션이 반복되게끔 설정하고, 모션에 따른 충돌 범위를 설정해준다.~~					
 
 <br>
 [세이브/로드]
@@ -737,7 +737,7 @@ https://docs.google.com/presentation/d/19gH2f80sjyj2JHj7kbdRyll1yROdGkSO/edit?us
 작업현황:  <br>
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./mp4/test_stage.mp4" type="video/mp4">
+    <source src="./mp4/sakuad_3.mp4" type="video/mp4">
   </video>
 </figure>
 
@@ -799,7 +799,7 @@ https://docs.google.com/presentation/d/145_rBI21AzYrAFtfbbkGu6QyaZYPO8RL/edit?us
 작업현황:
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./mp4/test_stage.mp4" type="video/mp4">
+    <source src="./mp4/sakuad_4.mp4" type="video/mp4">
   </video>
 </figure>
 
@@ -874,6 +874,56 @@ https://docs.google.com/presentation/d/1AcWjkMHaYc94kOsYawpQu5rVLPkdYdXJ/edit?us
 작업현황:
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./video/test_stage.mp4" type="video/mp4">
+    <source src="./video/sakuad_5.mp4" type="video/mp4">
+  </video>
+</figure>
+
+# 6주차 작업결과 <a name='96'> </a>
+
+작업명: 스테이지 구성 <br>
+
+<br>
+*프로그래밍
+
+<br>
+[몬스터] (0%)
+
+1. 몬스터는 각각 HP가 존재한다. 이는 상위 개체로 갈 수록 높아진다.
+1. 몬스터에게는 각자의 attack_delay가 존재한다.
+
+<br>
+[AI] (0%)
+
+1. 플레이어를 발견 시 공격모션을 취한다.  
+
+<br>
+[스테이지 구성] (100%)
+
+1. 움직이는 무빙 플랫폼(Moving_Platform)구현.           
+2. 플레이어 객체와 충돌 시 투명해지는 히든 지형이 있다.(Hidden_Ground)
+3. 목표 오브젝트에 닿을시 스테이지를 클리어할 수 있다.  
+
+<br>
+[스토리] (70%)
+
+1. 게임 시작 인트로에 스토리 컷씬을 보여준다.  
+
+<br>
+*사운드
+<br>
+[사운드설정]: 기본 BGM, SE 적용
+
+1. 스테이지, 스토리진행 컷씬등 각각의 상황에 맞는 BGM을 사용한다.
+
+PPT링크:
+<br>
+https://docs.google.com/presentation/d/1dr5MvMNGGWlK2agOStiJqYD6nAOitqpC/edit?usp=sharing&ouid=106384652671129907928&rtpof=true&sd=true
+
+<br><br>
+
+작업현황:
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="./video/sakuad_6.mp4" type="video/mp4">
   </video>
 </figure>
