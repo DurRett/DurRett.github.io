@@ -304,7 +304,7 @@ https://docs.google.com/presentation/d/1X3M8j7UW1CF47n49GKHHoncGzzOpZUkN/edit?us
 
 ### 2) 보조 규칙
 캐릭터가 몬스터에게 피해를 입거나 함정에 닿거나 낭떠러지로 떨어질시 사망. <br>
-사망시 저장된 위치에서 부활.
+사망시 세이브포인트에 저장된 위치로 플레이어를 이동 시킨다.
 
 <br><br><br>
 # 4. 게임에서 사용될 공식 <a name='67'> </a>
@@ -410,7 +410,7 @@ https://docs.google.com/presentation/d/1X3M8j7UW1CF47n49GKHHoncGzzOpZUkN/edit?us
 
 <br><br><br>
 
- ## *그래픽 요구사항
+ ## *그래픽 디자인
 
  <br>
 [메인메뉴]
@@ -449,7 +449,7 @@ https://docs.google.com/presentation/d/1X3M8j7UW1CF47n49GKHHoncGzzOpZUkN/edit?us
 
 <br><br><br>
 
- ## *사운드 요구사항
+ ## *사운드 디자인
 
 <br>
 [사운드설정]
@@ -469,7 +469,7 @@ https://docs.google.com/presentation/d/1X3M8j7UW1CF47n49GKHHoncGzzOpZUkN/edit?us
  <img src="./img/flowchart.png"><br>
 
  <br><br><br>
-# 3. 용어정리 <a name='73'> </a>
+# 3. 게임구성요소 <a name='73'> </a>
  <img src="./img/yj2.png"><br>
 
 <br><br><br>
